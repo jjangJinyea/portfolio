@@ -1,0 +1,24 @@
+div {
+    background-color:bisque;
+}
+
+
+
+p.logo, p.category, p.title {
+    font-family: 'Roboto', sans-serif;
+    color: #FF824D;
+    font-size: 36pt;
+}
+
+div.header {
+    margin-left: 22pt;
+    display: flex;
+    justify-content: space-between;   
+}
+
+div.works {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 22pt;
+
+}
